@@ -1,0 +1,12 @@
+name: dir_utils
+description: A Dart package to add handy methods to Directory class
+version: 1.0.0
+homepage: https://github.com/bits-to-Feed
+repository: https://github.com/bits-to-Feed/dir_utils
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dev_dependencies:
+  lints: ^1.0.1
+  test: ^1.16.0
